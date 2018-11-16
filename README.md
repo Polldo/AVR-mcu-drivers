@@ -1,5 +1,2 @@
 # AVR-mcu-drivers
-This repository is under development. It contains drivers for AVR microcontrollers. 
-
-contains drivers for 
-the Attiny85 microcontroller by 
+This repository contains a driver collection I've written in order to work with the AVR Attiny85 microcontroller. 
